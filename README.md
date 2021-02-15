@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me ...
-     Email- vishalgr44@gmail.com
-     Discord- SnyderSin#2896
-     Twitter- Vishalgr0
-     Github- vishalgr
+- Email- vishalgr44@gmail.com
+- Discord- SnyderSin#2896
+- Twitter- Vishalgr0
+-  Github- vishalgr
      
      
 

@@ -6,7 +6,8 @@
 - Email- vishalgr44@gmail.com
 - Discord- SnyderSin#2896
 - Twitter- Vishalgr0
--  Github- vishalgr
+-  Github- vishalgr/VishalCodes
+-  Twitch- SnyderSin
      
      
 

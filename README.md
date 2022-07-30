@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishalCodes
 - 👀 I’m interested in Learning/Coding
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently Working on DevOps
 - 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me ...
 - Email- vishalgr44@gmail.com
